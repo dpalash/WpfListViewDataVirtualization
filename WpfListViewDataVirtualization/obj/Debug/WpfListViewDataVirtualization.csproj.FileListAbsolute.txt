@@ -1,0 +1,17 @@
+c:\users\cefalo\documents\visual studio 2015\Projects\WpfListViewDataVirtualization\WpfListViewDataVirtualization\bin\Debug\WpfListViewDataVirtualization.exe.config
+c:\users\cefalo\documents\visual studio 2015\Projects\WpfListViewDataVirtualization\WpfListViewDataVirtualization\bin\Debug\WpfListViewDataVirtualization.exe
+c:\users\cefalo\documents\visual studio 2015\Projects\WpfListViewDataVirtualization\WpfListViewDataVirtualization\bin\Debug\WpfListViewDataVirtualization.pdb
+c:\users\cefalo\documents\visual studio 2015\Projects\WpfListViewDataVirtualization\WpfListViewDataVirtualization\obj\Debug\WpfListViewDataVirtualization.csprojResolveAssemblyReference.cache
+c:\users\cefalo\documents\visual studio 2015\Projects\WpfListViewDataVirtualization\WpfListViewDataVirtualization\obj\Debug\DemoWindow.baml
+c:\users\cefalo\documents\visual studio 2015\Projects\WpfListViewDataVirtualization\WpfListViewDataVirtualization\obj\Debug\DemoWindow.g.cs
+c:\users\cefalo\documents\visual studio 2015\Projects\WpfListViewDataVirtualization\WpfListViewDataVirtualization\obj\Debug\MainWindow.g.cs
+c:\users\cefalo\documents\visual studio 2015\Projects\WpfListViewDataVirtualization\WpfListViewDataVirtualization\obj\Debug\App.g.cs
+c:\users\cefalo\documents\visual studio 2015\Projects\WpfListViewDataVirtualization\WpfListViewDataVirtualization\obj\Debug\WpfListViewDataVirtualization_Content.g.cs
+c:\users\cefalo\documents\visual studio 2015\Projects\WpfListViewDataVirtualization\WpfListViewDataVirtualization\obj\Debug\WpfListViewDataVirtualization_MarkupCompile.cache
+c:\users\cefalo\documents\visual studio 2015\Projects\WpfListViewDataVirtualization\WpfListViewDataVirtualization\obj\Debug\WpfListViewDataVirtualization_MarkupCompile.lref
+c:\users\cefalo\documents\visual studio 2015\Projects\WpfListViewDataVirtualization\WpfListViewDataVirtualization\obj\Debug\MainWindow.baml
+c:\users\cefalo\documents\visual studio 2015\Projects\WpfListViewDataVirtualization\WpfListViewDataVirtualization\obj\Debug\WpfListViewDataVirtualization.g.resources
+c:\users\cefalo\documents\visual studio 2015\Projects\WpfListViewDataVirtualization\WpfListViewDataVirtualization\obj\Debug\WpfListViewDataVirtualization.Properties.Resources.resources
+c:\users\cefalo\documents\visual studio 2015\Projects\WpfListViewDataVirtualization\WpfListViewDataVirtualization\obj\Debug\WpfListViewDataVirtualization.csproj.GenerateResource.Cache
+c:\users\cefalo\documents\visual studio 2015\Projects\WpfListViewDataVirtualization\WpfListViewDataVirtualization\obj\Debug\WpfListViewDataVirtualization.exe
+c:\users\cefalo\documents\visual studio 2015\Projects\WpfListViewDataVirtualization\WpfListViewDataVirtualization\obj\Debug\WpfListViewDataVirtualization.pdb
